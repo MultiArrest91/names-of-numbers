@@ -1,0 +1,598 @@
+html {
+    background-color: black;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+p {
+    font-size: 30px;
+}
+
+.killillion {
+    background-color: #00066b;
+}
+
+.dalillion {
+    background-color: #0006bb;
+}
+
+.manillion {
+    background-color: #003169;
+}
+
+.lakhillion {
+    background-color: #005c67;
+}
+
+.kalillionshadow {
+    text-shadow: 0 0 10px #6b343e,
+    0 0 10px #6b343e,
+    0 0 10px #6b343e,
+    0 0 10px #6b343e,
+    0 0 10px #6b343e,
+    0 0 10px #6b343e,
+    0 0 10px #6b343e,
+    0 0 10px #6b343e,
+    0 0 10px #6b343e,
+    0 0 10px #6b343e,
+    0 0 10px #6b343e,
+    0 0 10px #6b343e,
+    0 0 10px #6b343e,
+    0 0 10px #6b343e,
+    0 0 10px #6b343e;
+}
+
+.kalillion {
+    text-shadow: 0 0 5px #424680,
+    1px 0 5px #424680,
+    1px 0 5px #424680,
+    1px 0 5px #424680,
+    1px 0 5px #424680;
+    color: yellow;
+}
+
+.killilliongold {
+    text-shadow: 0 0 5px #424680,
+    1px 0 5px #424680,
+    1px 0 5px #424680,
+    1px 0 5px #424680,
+    1px 0 5px #424680;
+    color: orange;
+}
+
+.dalillionshadow {
+    text-shadow: 0 0 10px #ff0000,
+    0 0 10px #ff0000,
+    0 0 10px #ff0000,
+    0 0 10px #ff0000,
+    0 0 10px #ff0000,
+    0 0 10px #ff0000,
+    0 0 10px #ff0000,
+    0 0 10px #ff0000,
+    0 0 10px #ff0000,
+    0 0 10px #ff0000,
+    0 0 10px #ff0000,
+    0 0 10px #ff0000,
+    0 0 10px #ff0000,
+    0 0 10px #ff0000,
+    0 0 10px #ff0000;
+}
+
+.manillionshadow {
+    text-shadow: 0 0 10px #b62222,
+    0 0 10px #b62222,
+    0 0 10px #b62222,
+    0 0 10px #b62222,
+    0 0 10px #b62222,
+    0 0 10px #b62222,
+    0 0 10px #b62222,
+    0 0 10px #b62222,
+    0 0 10px #b62222,
+    0 0 10px #b62222,
+    0 0 10px #b62222,
+    0 0 10px #b62222,
+    0 0 10px #b62222,
+    0 0 10px #b62222,
+    0 0 10px #b62222;
+}
+
+.dakalillion {
+    text-shadow: 0 0 5px #1f7c00,
+    1px 0 5px #1f7c00,
+    1px 0 5px #1f7c00,
+    1px 0 5px #1f7c00,
+    1px 0 5px #1f7c00;
+    color: yellow;
+}
+
+.crorillion {
+    background-color: #005600;
+}
+
+.mejillion {
+    text-shadow: 0 0 10px #b22f42,
+    0 0 10px #b22f42,
+    0 0 10px #b22f42,
+    0 0 10px #b22f42,
+    0 0 10px #b22f42,
+    0 0 10px #b22f42,
+    0 0 10px #b22f42,
+    0 0 10px #b22f42,
+    0 0 10px #b22f42,
+    0 0 10px #b22f42,
+    0 0 10px #b22f42,
+    0 0 10px #b22f42,
+    0 0 10px #b22f42,
+    0 0 10px #b22f42,
+    0 0 10px #b22f42;
+}
+
+.megilliongold {
+    text-shadow: 0 0 5px #1f7c00,
+    1px 0 5px #1f7c00,
+    1px 0 5px #1f7c00,
+    1px 0 5px #1f7c00,
+    1px 0 5px #1f7c00;
+    color: orange;
+}
+
+.gijillion {
+    background-color: #686332;
+}
+
+.awkillion {
+    text-shadow: 0 0 10px #f2295c,
+    0 0 10px #f2295c,
+    0 0 10px #f2295c,
+    0 0 10px #f2295c,
+    0 0 10px #f2295c,
+    0 0 10px #f2295c,
+    0 0 10px #f2295c,
+    0 0 10px #f2295c,
+    0 0 10px #f2295c,
+    0 0 10px #f2295c,
+    0 0 10px #f2295c,
+    0 0 10px #f2295c,
+    0 0 10px #f2295c,
+    0 0 10px #f2295c,
+    0 0 10px #f2295c;
+}
+
+.asteroid {
+    background-color: #9e6830;
+}
+
+.astillion {
+    text-shadow: 0 0 5px #5b6a19,
+    1px 0 5px #5b6a19,
+    1px 0 5px #5b6a19,
+    1px 0 5px #5b6a19,
+    1px 0 5px #5b6a19;
+    color: yellow;
+}
+
+.asteroidgold {
+    text-shadow: 0 0 5px #5b6a19,
+    1px 0 5px #5b6a19,
+    1px 0 5px #5b6a19,
+    1px 0 5px #5b6a19,
+    1px 0 5px #5b6a19;
+    color: orange;
+}
+
+.lunillion {
+    background-color: #a23a00;
+}
+
+.astillion {
+    text-shadow: 0 0 5px #5b6a19,
+    1px 0 5px #5b6a19,
+    1px 0 5px #5b6a19,
+    1px 0 5px #5b6a19,
+    1px 0 5px #5b6a19;
+    color: yellow;
+}
+
+.fermillion {
+    background-color: #8b0d00;
+}
+
+.firma {
+    text-shadow: 0 0 5px #44330f,
+    1px 0 5px #44330f,
+    1px 0 5px #44330f,
+    1px 0 5px #44330f,
+    1px 0 5px #44330f;
+    color: yellow;
+}
+
+.firmagold {
+    text-shadow: 0 0 5px #44330f,
+    1px 0 5px #44330f,
+    1px 0 5px #44330f,
+    1px 0 5px #44330f,
+    1px 0 5px #44330f;
+    color: orange;
+}
+
+.jovillion {
+    background-color: #891383;
+}
+
+.jehovan {
+    text-shadow: 0 0 5px #1f0f44,
+    1px 0 5px #1f0f44,
+    1px 0 5px #1f0f44,
+    1px 0 5px #1f0f44,
+    1px 0 5px #1f0f44;
+    color: yellow;
+}
+
+.jehovangold {
+    text-shadow: 0 0 5px #1f0f44,
+    1px 0 5px #1f0f44,
+    1px 0 5px #1f0f44,
+    1px 0 5px #1f0f44,
+    1px 0 5px #1f0f44;
+    color: orange;
+}
+
+.jovillion {
+    background-color: #891383;
+}
+
+.jehovan {
+    text-shadow: 0 0 5px #1f0f44,
+    1px 0 5px #1f0f44,
+    1px 0 5px #1f0f44,
+    1px 0 5px #1f0f44,
+    1px 0 5px #1f0f44;
+    color: yellow;
+}
+
+.jehovangold {
+    text-shadow: 0 0 5px #1f0f44,
+    1px 0 5px #1f0f44,
+    1px 0 5px #1f0f44,
+    1px 0 5px #1f0f44,
+    1px 0 5px #1f0f44;
+    color: orange;
+}
+
+.solillion {
+    background-color: #891383;
+    background-repeat: repeat-y;
+    background-image: url(Screenshot_2024-05-27_155903.png);
+    background-position: center;
+    background-size: 1080px;
+}
+
+div.solilliontop {
+    background-color: #891383;
+    background-image: url(Screenshot_2024-05-27_160651.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1080px;
+}
+
+div.solillionbot {
+    background-color: #891383;
+    background-image: url(Screenshot_2024-05-27_160660.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1080px;
+}
+
+.solar {
+    text-shadow: 0 0 5px #1b5e85,
+    1px 0 5px #1b5e85,
+    1px 0 5px #1b5e85,
+    1px 0 5px #1b5e85,
+    1px 0 5px #1b5e85;
+    color: yellow;
+}
+
+.solargold {
+    text-shadow: 0 0 5px #1b5e85,
+    1px 0 5px #1b5e85,
+    1px 0 5px #1b5e85,
+    1px 0 5px #1b5e85,
+    1px 0 5px #1b5e85;
+    color: orange;
+}
+
+.betelgeuse {
+    text-shadow: 0 0 5px #7c5b13,
+    1px 0 5px #7c5b13,
+    1px 0 5px #7c5b13,
+    1px 0 5px #7c5b13,
+    1px 0 5px #7c5b13;
+    color: yellow;
+}
+
+.betelgeusegold {
+    text-shadow: 0 0 5px #7c5b13,
+    1px 0 5px #7c5b13,
+    1px 0 5px #7c5b13,
+    1px 0 5px #7c5b13,
+    1px 0 5px #7c5b13;
+    color: orange;
+}
+
+.betillion {
+    background-color: #691464;
+    background-repeat: repeat-y;
+    background-image: url(Screenshot_2024-05-27_170523.png);
+    background-position: center;
+    background-size: 1080px;
+}
+
+div.betilliontop {
+    background-color: #691464;
+    background-image: url(Screenshot_2024-05-27_170530.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1080px;
+}
+
+div.betillionbot {
+    background-color: #691464;
+    background-image: url(Screenshot_2024-05-27_170536.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1080px;
+}
+
+.betillionshade {
+    text-shadow: 0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange;
+}
+
+.glocillion {
+    background-color: #002da4;
+    background-repeat: repeat-y;
+    background-image: url(Screenshot_2024-05-27_172206.png);
+    background-position: center;
+    background-size: 1080px;
+}
+
+div.glocilliontop {
+    background-color: #002da4;
+    background-image: url(Screenshot_2024-05-27_172212.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1080px;
+}
+
+div.glocillionbot {
+    background-color: #002da4;
+    background-image: url(Screenshot_2024-05-27_172216.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1080px;
+}
+
+.globularcluster {
+    text-shadow: 0 0 5px #131d7c,
+    1px 0 5px #131d7c,
+    1px 0 5px #131d7c,
+    1px 0 5px #131d7c,
+    1px 0 5px #131d7c;
+    color: yellow;
+}
+
+.globularclustergold {
+    text-shadow: 0 0 5px #131d7c,
+    1px 0 5px #131d7c,
+    1px 0 5px #131d7c,
+    1px 0 5px #131d7c,
+    1px 0 5px #131d7c;
+    color: orange;
+}
+
+.glocillionshade {
+    text-shadow: 0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange,
+    0 0 10px orange;
+    color: #ffe8b5
+}
+
+.gaxillion {
+    background-color: #00ab00;
+    background-repeat: repeat-y;
+    background-image: url(Screenshot_2024-05-27_173727.png);
+    background-position: center;
+    background-size: 1080px;
+}
+
+div.gaxilliontop {
+    background-color: #00ab00;
+    background-image: url(Screenshot_2024-05-27_173733.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1080px;
+}
+
+div.gaxillionbot {
+    background-color: #00ab00;
+    background-image: url(Screenshot_2024-05-27_173737.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1080px;
+}
+
+.galaxy {
+    text-shadow: 0 0 5px #1c7c13,
+    1px 0 5px #1c7c13,
+    1px 0 5px #1c7c13,
+    1px 0 5px #1c7c13,
+    1px 0 5px #1c7c13;
+    color: #aeffa7;
+}
+
+.galaxygold {
+    text-shadow: 0 0 5px #1c7c13,
+    1px 0 5px #1c7c13,
+    1px 0 5px #1c7c13,
+    1px 0 5px #1c7c13,
+    1px 0 5px #1c7c13;
+    color: orange;
+}
+
+.gaxillionshade {
+    text-shadow: 0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red;
+    color: #ffc8c8
+}
+
+.supillion {
+    background-color: #ff9900;
+    background-repeat: repeat-y;
+    background-image: url(Screenshot_2024-05-27_181848.png);
+    background-position: center;
+    background-size: 1080px;
+}
+
+div.supilliontop {
+    background-color: #ff9900;
+    background-image: url(Screenshot_2024-05-27_181854.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1080px;
+}
+
+div.supillionbot {
+    background-color: #ff9900;
+    background-image: url(Screenshot_2024-05-27_181860.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1080px;
+}
+
+.supercluster {
+    text-shadow: 0 0 5px #7c7a13,
+    1px 0 5px #7c7a13,
+    1px 0 5px #7c7a13,
+    1px 0 5px #7c7a13,
+    1px 0 5px #7c7a13;
+    color: #fffea7;
+}
+
+.superclustergold {
+    text-shadow: 0 0 5px #7c7a13,
+    1px 0 5px #7c7a13,
+    1px 0 5px #7c7a13,
+    1px 0 5px #7c7a13,
+    1px 0 5px #7c7a13;
+    color: orange;
+}
+
+.soda {
+    background-image: url(almostrainbow.png);
+    background-size: 1080px;
+}
+
+.multicolor {
+    text-shadow: 0 0 5px #006400,
+    1px 0 5px #006400,
+    1px 0 5px #006400,
+    1px 0 5px #006400,
+    1px 0 5px #006400;
+    color: #fffea7;
+}
+
+.multicolorgold {
+    text-shadow: 0 0 5px #006400,
+    1px 0 5px #006400,
+    1px 0 5px #006400,
+    1px 0 5px #006400,
+    1px 0 5px #006400;
+    color: orange;
+}
+
+.final {
+    background-image: url(rainbow.png);
+    background-size: 1080px;
+}
+
+.ultimate {
+    text-shadow: 0 0 5px #645200,
+    1px 0 5px #645200,
+    1px 0 5px #645200,
+    1px 0 5px #645200,
+    1px 0 5px #645200;
+    color: #fffecc;
+}
+
+.ultimategold {
+    text-shadow: 0 0 5px black,
+    1px 0 5px black,
+    1px 0 5px black,
+    1px 0 5px black,
+    1px 0 5px black;
+    color: orange;
+}
+
+.ultimateshade {
+    text-shadow: 0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red,
+    0 0 10px red;
+    color: #c9c8ff
+}
+
+.end {
+    color: red
+}
